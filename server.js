@@ -1,4 +1,4 @@
-// Require http module
+// Require http module as constant
 const http = require('http')
 
 // Require fs module
