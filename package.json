@@ -1,6 +1,6 @@
 {
-  "name": "a01-mkrishn852",
-  "version": "1.0.0",
+  "name": "coinflip",
+  "version": "0.0.1",
   "description": "simple web server",
   "main": "server.js",
   "scripts": {
@@ -19,5 +19,7 @@
   "homepage": "https://github.com/comp426-2022-spring/a01-mkrishn852#readme",
   "dependencies": {
     "minimist": "^1.2.5"
-  }
+  },
+  "devDependencies": {}
 }
+ 
